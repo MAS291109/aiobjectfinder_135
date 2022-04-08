@@ -1,0 +1,14 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+p{
+    color: black;
+    margin-bottom: 0px;
+    font-size: 14px;
+}
+canvas{
+    border-radius: 10px;
+    background-color: grey;
+    box-shadow: 7px 7px 7px white;
+}
